@@ -1,2 +1,2 @@
 # Python
-Python code
+My collection of Python programs
